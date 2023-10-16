@@ -1,0 +1,55 @@
+.elementor-504 .elementor-element.elementor-element-aa8dfe5{--display:flex;--min-height:100vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:150px;--padding-right:25px;--padding-bottom:80px;--padding-left:25px;}.elementor-504 .elementor-element.elementor-element-aa8dfe5:not(.elementor-motion-effects-element-type-background), .elementor-504 .elementor-element.elementor-element-aa8dfe5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-98104d3 );}.elementor-504 .elementor-element.elementor-element-aa8dfe5, .elementor-504 .elementor-element.elementor-element-aa8dfe5::before{--border-transition:0.3s;}.elementor-504 .elementor-element.elementor-element-05271a9{text-align:center;}.elementor-504 .elementor-element.elementor-element-05271a9 .elementor-heading-title{color:var( --e-global-color-5722c4f );font-family:"Muli", Sans-serif;font-size:48px;font-weight:600;line-height:1.3em;}.elementor-504 .elementor-element.elementor-element-05271a9.ob-harakiri{writing-mode:inherit;}.elementor-504 .elementor-element.elementor-element-05271a9.ob-harakiri .elementor-heading-title{writing-mode:inherit;transform:rotate(0deg);}.elementor-504 .elementor-element.elementor-element-05271a9.ob-harakiri .elementor-widget-container > div{writing-mode:inherit;transform:rotate(0deg);}.elementor-504 .elementor-element.elementor-element-05271a9 .elementor-widget-container{text-indent:0px;mix-blend-mode:inherit;}.elementor-504 .elementor-element.elementor-element-05271a9 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-504 .elementor-element.elementor-element-8d0158a{text-align:center;color:var( --e-global-color-5722c4f );font-family:"Muli", Sans-serif;font-size:18px;font-weight:400;}.elementor-504 .elementor-element.elementor-element-8d0158a.ob-harakiri{writing-mode:inherit;}.elementor-504 .elementor-element.elementor-element-8d0158a.ob-harakiri .elementor-heading-title{writing-mode:inherit;transform:rotate(0deg);}.elementor-504 .elementor-element.elementor-element-8d0158a.ob-harakiri .elementor-widget-container > div{writing-mode:inherit;transform:rotate(0deg);}.elementor-504 .elementor-element.elementor-element-8d0158a .elementor-widget-container{text-indent:0px;mix-blend-mode:inherit;}.elementor-504 .elementor-element.elementor-element-8d0158a .elementor-widget-container p:last-child{margin-bottom:0px;}.elementor-504 .elementor-element.elementor-element-8d0158a > .elementor-widget-container{padding:20px 0px 0px 0px;}.elementor-504 .elementor-element.elementor-element-86dc81e .elementor-button{font-family:"Muli", Sans-serif;font-size:18px;font-weight:500;fill:#FFFFFF;color:#FFFFFF;background-color:transparent;background-image:linear-gradient(90deg, var( --e-global-color-9025a43 ) 0%, var( --e-global-color-28310a3 ) 100%);border-style:none;border-radius:100px 100px 100px 100px;padding:15px 50px 15px 50px;}.elementor-504 .elementor-element.elementor-element-86dc81e .elementor-button:hover, .elementor-504 .elementor-element.elementor-element-86dc81e .elementor-button:focus{color:#FFFFFF;background-color:transparent;background-image:linear-gradient(90deg, var( --e-global-color-28310a3 ) 0%, var( --e-global-color-9025a43 ) 100%);border-color:var( --e-global-color-9025a43 );}.elementor-504 .elementor-element.elementor-element-86dc81e .elementor-button:hover svg, .elementor-504 .elementor-element.elementor-element-86dc81e .elementor-button:focus svg{fill:#FFFFFF;}.elementor-504 .elementor-element.elementor-element-86dc81e > .elementor-widget-container{padding:20px 0px 0px 0px;}:root{--page-title-display:none;}html, body{overflow-x:auto;}@media(max-width:1024px){.elementor-504 .elementor-element.elementor-element-05271a9 .elementor-heading-title{font-size:48px;}.elementor-504 .elementor-element.elementor-element-05271a9 > .elementor-widget-container{padding:0px 25px 0px 25px;}.elementor-504 .elementor-element.elementor-element-8d0158a{font-size:18px;}.elementor-504 .elementor-element.elementor-element-8d0158a > .elementor-widget-container{padding:20px 0px 0px 0px;}.elementor-504 .elementor-element.elementor-element-86dc81e .elementor-button{font-size:18px;}}@media(min-width:768px){.elementor-504 .elementor-element.elementor-element-aa8dfe5{--content-width:800px;}}@media(max-width:767px){.elementor-504 .elementor-element.elementor-element-aa8dfe5{--padding-top:180px;--padding-right:25px;--padding-bottom:80px;--padding-left:25px;}.elementor-504 .elementor-element.elementor-element-05271a9{text-align:center;}.elementor-504 .elementor-element.elementor-element-05271a9 .elementor-heading-title{font-size:32px;}.elementor-504 .elementor-element.elementor-element-05271a9 > .elementor-widget-container{padding:0px 15px 0px 15px;}.elementor-504 .elementor-element.elementor-element-8d0158a{text-align:center;font-size:16px;}.elementor-504 .elementor-element.elementor-element-8d0158a > .elementor-widget-container{padding:20px 0px 0px 0px;}}/* Start custom CSS for text-editor, class: .elementor-element-8d0158a */.elementor-504 .elementor-element.elementor-element-8d0158a a {
+        background-image: linear-gradient(120deg,#A82FF9,#4B6BE0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/05/Muli.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2023/05/Muli-1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2023/05/Muli-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2023/05/Muli-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2023/05/Muli-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2023/05/Muli-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2023/05/Muli-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
